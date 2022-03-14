@@ -13,3 +13,6 @@ Saya ibnu fajar akan menjelaskan pemprograman dasar HTML sebagai berikut:
 
 <br> langhkah ketiga kalian buka dicrome dan lihat hasilnya
 ![p](gambar/gb3.png)
+
+<br> langkah keempat kalian belajar membuat paragraf seperti codingan digambar berikut
+![p](gambar/gb4.png)
