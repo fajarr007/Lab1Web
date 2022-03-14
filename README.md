@@ -1,4 +1,3 @@
 # Lab1Web
-
-![Lab1Web](gambar/gb1.png)
-<br>fdhgfgdghhtd
+##Nama##
+##NIM 
