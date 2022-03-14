@@ -22,3 +22,4 @@ ketika sudah membuat codingan paragraf lalu kalian run divisual studio code, dan
 Simpan kembali dan amati perubahannya dengan melakukan refresh pada google crome.
 Selanjutnya silakan ubah-ubah nilai atributnya (align => justify, left, right, dan center) untuk melihat
 perbedaan lainnya.
+![p](gambar/gb7.png)
