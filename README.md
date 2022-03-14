@@ -17,4 +17,4 @@ Saya ibnu fajar akan menjelaskan pemprograman dasar HTML sebagai berikut:
 ![p](gambar/gb4.png)
 ketika sudah membuat codingan paragraf lalu kalian run divisual studio code, dan kalian buka digoogle crome dan lihat hasilnya
 ![p](gambar/gb5.png)
-<br> Kemudian atur atribut paragraf seperti berikut, dan amati perubahanya.
+<br> Kemudian atur atribut paragraf seperti gambar dibawah ini, dan amati perubahanya.
