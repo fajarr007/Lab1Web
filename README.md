@@ -1,2 +1,3 @@
 # Lab1Web
-ghgh
+
+![Lab1Web](gambar/gb1.png)
