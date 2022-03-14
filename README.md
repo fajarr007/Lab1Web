@@ -10,8 +10,7 @@ Saya ibnu fajar akan menjelaskan pemprograman dasar HTML sebagai berikut:
 
 <br> Langkah kedua kalian harus membuat file dengan nama <b>lab1_tag_dasarhtml</b> divisual studio code, seperti gambar berikut:
 ![p](gambar/gb2.png)
-
-<br> langhkah ketiga kalian buka dicrome dan lihat hasilnya
+<br> lalu kalian buka dicrome dan lihat hasilnya
 ![p](gambar/gb3.png)
 
 <br> langkah keempat kalian belajar membuat paragraf seperti codingan digambar berikut
