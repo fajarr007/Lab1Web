@@ -23,3 +23,6 @@ Simpan kembali dan amati perubahannya dengan melakukan refresh pada google crome
 Selanjutnya silakan ubah-ubah nilai atributnya (align => justify, left, right, dan center) untuk melihat
 perbedaan lainnya.
 ![p](gambar/gb7.png)
+
+<br> langkah kelima kalian belajar menambahkan judul seperti, tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua. Seperti codingan digambar berikut
+![p](gambar/gb8.png) 
