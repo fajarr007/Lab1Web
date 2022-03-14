@@ -25,4 +25,6 @@ perbedaan lainnya.
 ![p](gambar/gb7.png)
 
 <br> langkah kelima kalian belajar menambahkan judul seperti, tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua. Seperti codingan digambar berikut
-![p](gambar/gb8.png) 
+![p](gambar/gb8.png)
+<br>  ketika sudah membuat codingannya lalu kalian run divisual studio code, dan kalian buka digoogle crome lalu refres dan lihat hasilnya
+![p](gambar/gb9.png)
