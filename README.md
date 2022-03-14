@@ -18,4 +18,5 @@ Saya ibnu fajar akan menjelaskan pemprograman dasar HTML sebagai berikut:
 ketika sudah membuat codingan paragraf lalu kalian run divisual studio code, dan kalian buka digoogle crome dan lihat hasilnya
 ![p](gambar/gb5.png)
 
-<br> langkah kelima kalian balajar menambahkan judul pada paragraf dengan perintah ~ ~ <h1></h1> ~ ~
+<br> langkah kelima kalian balajar menambahkan judul pada paragraf dengan perintah seperti codingan digambar berikut
+![p](gambar/gb6.png)
