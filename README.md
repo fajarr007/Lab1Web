@@ -1,3 +1,4 @@
 # Lab1Web
-##Nama##
-##NIM 
+
+## NAMA : Ibnu fajar 
+## NIM  : 312010420
