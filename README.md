@@ -28,3 +28,6 @@ perbedaan lainnya.
 ![p](gambar/gb8.png)
 <br>  ketika sudah membuat codingannya lalu kalian run divisual studio code, dan kalian buka digoogle crome lalu refres dan lihat hasilnya
 ![p](gambar/gb9.png)
+
+<br> langkah keenam kalian belajar melakukan pemformatan teks yang pada paragraf yang sudah ada sebelumnya, seperti codingan digambar berikut
+![p](gambar/gb10.png)
