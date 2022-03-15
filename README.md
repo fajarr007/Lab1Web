@@ -41,5 +41,5 @@ perbedaan lainnya.
 <br> setelah membuat codingannya lalu kalian run divisual studio code, dan kalian buka digoogle crome lihat hasilnya
 ![p](gambar/gb13.png) 
 
-<br align="center">**Demikian kiranya yang bisa saya sampaikan, kurang lebihnya saya mohon maaf jika ada salah kata yang terucap, dan atas perhatiannya saya ucapkan terima kasih yang sebesar-besarnya.**
+<p align="center">**Demikian kiranya yang bisa saya sampaikan, kurang lebihnya saya mohon maaf jika ada salah kata yang terucap, dan atas perhatiannya saya ucapkan terima kasih yang sebesar-besarnya.**</p>
 
