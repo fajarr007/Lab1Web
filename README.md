@@ -33,3 +33,6 @@ perbedaan lainnya.
 ![p](gambar/gb10.png)
 <br> ketika sudah membuat codingannya lalu kalian run divisual studio code, dan kalian buka digoogle crome lalu refres dan lihat hasilnya
 ![p](gambar/gb11.png)
+
+<br> langkah ketujuh kalian belajar menyisipkan gambar pada halam Web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html seperti gambar berikut;
+! [p](gambar/berkas.png)
