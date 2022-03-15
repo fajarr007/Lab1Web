@@ -38,3 +38,6 @@ perbedaan lainnya.
 ![p](gambar/berkas.png)
 <br> langkah selanjutnya menambahkan codingan seprti gambar dibawah ini;
 ![p](gambar/gb12.png)
+<br> setelah membuat codingannya lalu kalian run divisual studio code, dan kalian buka digoogle crome lihat hasilnya
+![p](gambar/gb13.png) 
+
