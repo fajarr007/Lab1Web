@@ -36,3 +36,5 @@ perbedaan lainnya.
 
 <br> langkah ketujuh kalian belajar menyisipkan gambar pada halam Web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html seperti gambar berikut;
 ![p](gambar/berkas.png)
+<br> langkah selanjutnya menambahkan codingan seprti gambar dibawah ini;
+![p](gambar/gb12.png)
